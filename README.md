@@ -1,15 +1,14 @@
-# Algorithms-Part1-Princeton-Course
+# Algorithms Part1 Coursera Princeton University
 
-A comprehensive collection of implementations and solutions for the [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1) course from Princeton University. Covers fundamental data structures and algorithms using Java.
+Notes and Java solutions for Princeton University's Algorithms course.
 
-## ┬┐ Topics Covered
-- **Stacks & Queues**: Core data structure implementations.
-- **Sorting Algorithms**: QuickSort, MergeSort, and Heapsort analysis.
-- **Searching**: Binary Search Trees and Hash Tables.
-- **Graphs**: Breadth-First and Depth-First Search applications.
+## Features
+- Course notes and highlights
+- Programming assignment solutions
+- Conceptual frameworks
 
-## ┬┐ Project Structure
-- `src/`: Java source code for assignments and examples.
+## License
+MIT License — see [LICENSE](LICENSE)
 
 ---
-*Created by DinhLucent - 2021 (Updated 2026)*
+Built by [DinhLucent](https://github.com/DinhLucent)
